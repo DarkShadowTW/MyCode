@@ -1,5 +1,3 @@
-Sample Coce :
-
 #import h5py library
 import h5py
 
